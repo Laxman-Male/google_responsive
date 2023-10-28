@@ -1,0 +1,82 @@
+/* body{
+    background-color: red;
+} */
+#navbar ul{
+    justify-content: end;
+     width: 350%;
+    margin: 3px;
+    padding: 2px;
+
+}
+#google_img{
+     align-items: center; 
+     justify-content: center; 
+     display: flex;   
+     /* border: 2px solid red;  */
+    /* margin: auto; */
+    width: 300%;
+}
+/* #section img{
+    border: 2px solid red;
+} */
+.inside_nav{
+    /* align-items: end; */
+    flex-direction: column-reverse;
+}
+.inside_img{
+    flex-direction: column-reverse;
+}
+#searchbar_phone{
+    /* border: 2px solid red; */
+    width: 350%;
+}
+#searchbar{
+   /* border: 2px solid red; */
+   display: flex;
+   justify-content: center;
+     width: 520px; 
+      
+ }
+#searchbar ul li input {
+    width: 360px;
+    
+}
+#search_feeling  {
+    /* border: 2px solid red; */
+    width: 350%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#languages{
+/* border: 2px solid red; */
+width: 350%;
+display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#languages ul #lag_head{
+    width: 110px;
+}
+#languages ul li{
+    padding: 3px;
+}
+#last_part div p{
+    width: 360%;
+}
+#last_part ul li{
+    /* width: 1000px; */
+    flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#last_part div ul{
+    width: 370%;
+}
+#how_search{
+    width: 100px;
+}
+#last_middle{
+    width: 300%;
+}
